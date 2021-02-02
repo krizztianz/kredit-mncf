@@ -1,0 +1,5 @@
+**/.vscode/
+/.vscode/*
+**/vendor/
+/vendor/*
+infoprocom2.sql
